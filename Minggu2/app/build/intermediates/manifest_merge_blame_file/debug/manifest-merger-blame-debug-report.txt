@@ -1,0 +1,123 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.minggu2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="31"
+8-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:5:5-47:19
+12        android:allowBackup="true"
+12-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\32b22ae24ddd49268bb45350efca99f0\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:10:9-41
+20        android:supportsRtl="true"
+20-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Minggu2" >
+22-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:12:9-45
+23        <activity
+23-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:14:9-16:40
+24            android:name="com.example.minggu2.HorizontalScrollViewActivity"
+24-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:15:13-57
+25            android:exported="false" />
+25-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:16:13-37
+26        <activity
+26-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:17:9-19:40
+27            android:name="com.example.minggu2.ScrollViewActivity"
+27-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:18:13-47
+28            android:exported="false" />
+28-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:19:13-37
+29        <activity
+29-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:20:9-22:40
+30            android:name="com.example.minggu2.MaterialDesignActivity"
+30-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:21:13-51
+31            android:exported="false" />
+31-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:22:13-37
+32        <activity
+32-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:23:9-25:40
+33            android:name="com.example.minggu2.TableActivity"
+33-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:24:13-42
+34            android:exported="false" />
+34-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:25:13-37
+35        <activity
+35-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:26:9-28:40
+36            android:name="com.example.minggu2.FrameActivity"
+36-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:27:13-42
+37            android:exported="false" />
+37-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:28:13-37
+38        <activity
+38-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:29:9-31:40
+39            android:name="com.example.minggu2.RelativeActivity"
+39-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:30:13-45
+40            android:exported="false" />
+40-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:31:13-37
+41        <activity
+41-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:32:9-34:40
+42            android:name="com.example.minggu2.ConstraintActivity"
+42-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:33:13-47
+43            android:exported="false" />
+43-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:34:13-37
+44        <activity
+44-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:35:9-37:40
+45            android:name="com.example.minggu2.LinearActivity"
+45-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:36:13-43
+46            android:exported="false" />
+46-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:37:13-37
+47        <activity
+47-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:38:9-46:20
+48            android:name="com.example.minggu2.MainActivity"
+48-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:39:13-41
+49            android:exported="true" >
+49-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:40:13-36
+50            <intent-filter>
+50-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:41:13-45:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:42:17-69
+51-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:42:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:44:17-77
+53-->C:\Users\ATHIYAH\StudioProjects\MingguPertama\Minggu2\app\src\main\AndroidManifest.xml:44:27-74
+54            </intent-filter>
+55        </activity>
+56
+57        <provider
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\b9027b92c1482b134488be162c33fb60\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+58            android:name="androidx.startup.InitializationProvider"
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\b9027b92c1482b134488be162c33fb60\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+59            android:authorities="com.example.minggu2.androidx-startup"
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\b9027b92c1482b134488be162c33fb60\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+60            android:exported="false" >
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\b9027b92c1482b134488be162c33fb60\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+61            <meta-data
+61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\b9027b92c1482b134488be162c33fb60\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\b9027b92c1482b134488be162c33fb60\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+63                android:value="androidx.startup" />
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\b9027b92c1482b134488be162c33fb60\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+64            <meta-data
+64-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\2244c9bd04f48de056c1159c637b1b8b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+65                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+65-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\2244c9bd04f48de056c1159c637b1b8b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+66                android:value="androidx.startup" />
+66-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ATHIYAH\.gradle\caches\transforms-3\2244c9bd04f48de056c1159c637b1b8b\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+67        </provider>
+68    </application>
+69
+70</manifest>
